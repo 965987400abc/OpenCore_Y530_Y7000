@@ -1,0 +1,2 @@
+# OpenCore_Y530_Y7000
+Y7000-Y530_OpenCore
