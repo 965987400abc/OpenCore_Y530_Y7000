@@ -2,7 +2,7 @@
 ## Y7000-Y530_OpenCore适用于macOS 10.15.2\10.14.6\10.13.6
 
 ## Y7000 2018款高级bios设置：FN+D+O进入
-- 修改如下：
+- 按F9恢复默认bios设置，仅需要修改以下设置：
 - Advanced>Debug settings>legacy URAT
 ## 注意事项
 - config.plist里面的三码已删除，请自行使用Clover Configurator算出三码；
